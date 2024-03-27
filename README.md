@@ -1,3 +1,6 @@
+<a href="https://komarev.com/ghpvc/?username=ItWiz122">
+  <img align="right" src="https://komarev.com/ghpvc/?username=irfandevv&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
 <h1 align="center"> Hi <img src="./hi.gif" width="40px" />, I'm Ty Stout
 </h1>
@@ -16,7 +19,7 @@ Full Stack Developer with a knack for crafting intuitive web and mobile applicat
 > ⚡ &nbsp; converting ideas into fascinating virtual worlds. <br/>
 <!-- > 🤝 &nbsp; Reach me @ itWiz122@gmail.com <br/> -->
 
-<br/> <br/> <br/> <br/> <br/>
+<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 
 <hr/>
 
