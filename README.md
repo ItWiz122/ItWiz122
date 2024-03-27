@@ -17,13 +17,13 @@ Full Stack Developer with a knack for crafting intuitive web and mobile applicat
 
 > ✌️ &nbsp; Passionate Full Stack Developer who loves learning. <br/>
 > ⚡ &nbsp; converting ideas into fascinating virtual worlds. <br/>
-<!-- > 🤝 &nbsp; Reach me @ itWiz122@gmail.com <br/> -->
+> 🤝 &nbsp; Reach me @ ty.fastdev@gmail.com <br/> 
 
-<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
+<br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 
 <hr/>
 
-# <img src="./developer.gif" width="50" draggable="false"> Used To Code
+# <img src="./developer.gif" width="50" draggable="false"> Technologies Used
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
