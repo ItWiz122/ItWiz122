@@ -2,7 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=irfandevv&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-<h1 align="center"> Hi <img src="./hi.gif" width="40px" />, I'm Ty Stout
+<h1 align="center"> Hi <img src="./hi.gif" width="40px" />, I'm Saidul Islam
 </h1>
 
 ---
