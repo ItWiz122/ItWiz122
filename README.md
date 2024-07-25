@@ -17,7 +17,7 @@ Full Stack Developer with a knack for crafting intuitive web and mobile applicat
 
 > ✌️ &nbsp; Passionate Full Stack Developer who loves learning. <br/>
 > ⚡ &nbsp; converting ideas into fascinating virtual worlds. <br/>
-> 🤝 &nbsp; Reach me @ ty.fastdev@gmail.com <br/> 
+> 🤝 &nbsp; Reach me @ ms0416999@gmail.com <br/> 
 
 <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
 
